@@ -13,3 +13,5 @@ def get_response(message: str) -> str:
         "   - You're using it right now! The `!help` command displays this help message, providing you with information about all available commands.\n\n"
         "Feel free to start a conversation, ask questions, or explore my capabilities. If you ever need assistance or have any other questions, don't hesitate to reach out. Happy chatting!"
     )
+        
+    return 'Unrecognizable command.\nPlease check out !help for a list of the commands!'
