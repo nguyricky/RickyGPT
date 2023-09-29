@@ -1,16 +1,18 @@
 from decouple import config
 import openai
 
-openai.api_key = config('OPENAI_TOKEN')
+
+OPENAI_TOKEN = config('OPENAI_TOKEN')
+openai.api_key = OPENAI_TOKEN
 
 def get_response(message: str) -> str:
     p_message = message.lower()
     
     if p_message.startswith('!ask'):
         response = openai.Completion.create (
-            model = 'gpt-3.5-turbo',
+            model = 'text-davinci-003',
             prompt = p_message[6:],
-            max_tokens=5000,
+            max_tokens=2000,
             n=1,
             stop=None
         )
