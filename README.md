@@ -1,3 +1,11 @@
-# RickyGPT - Discord Chatbot with OpenAI API
+<p align="center">
+  <a href="https://rickynguyne.dev/">
+    <img src="https://github.com/nguyricky/portfolio/blob/main/public/RickyGPTBanner.svg" alt="Personal Banner">
+  </a>
+</p>
 
-RickyGPT is a versatile Discord bot powered by OpenAI's GPT-3, designed to facilitate intelligent and engaging conversations within your Discord server. Whether you want to have meaningful discussions, generate creative content, or simply chat for fun, RickyGPT is here to assist.
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
+  <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
+</p>
