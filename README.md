@@ -10,6 +10,10 @@
   <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
 </p>
 
+## About
+
+RickyGPT is an AI-powered text generation project that harnesses the power of the OpenAI API to provide intelligent and context-aware responses. Named after the renowned GPT-3 model, this project brings advanced natural language processing capabilities to Discord.
+
 ## License
 
-RickyGPT is a MIT License software by [Ricky Nguyen](https://github.com/nguyricky)
+RickyGPT is an MIT License software by [Ricky Nguyen](https://github.com/nguyricky)
