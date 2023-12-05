@@ -23,7 +23,3 @@ RickyGPT is an MIT License software by [Ricky Nguyen](https://github.com/nguyric
 <a href="https://github.com/nguyricky/RickyGPT/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=nguyricky/RickyGPT" />
 </a>
-
-## Support
-
-Feel free to [donate](https://ko-fi.com/rickynguyen), and know that every contribution goes a long way in supporting my continued development!
