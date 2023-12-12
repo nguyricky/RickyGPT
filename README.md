@@ -18,8 +18,3 @@ RickyGPT is an AI-powered text generation project that harnesses the power of th
 
 RickyGPT is an MIT License software by [Ricky Nguyen](https://github.com/nguyricky)
 
-## Collaborators
-
-<a href="https://github.com/nguyricky/RickyGPT/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=nguyricky/RickyGPT" />
-</a>
