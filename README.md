@@ -12,7 +12,7 @@
 
 ## About
 
-RickyGPT is an AI-powered text generation project that harnesses the power of the OpenAI API to provide intelligent and context-aware responses. Named after the renowned GPT-3 model, this project brings advanced natural language processing capabilities to Discord.
+RickyGPT is an AI-powered text generation project that harnesses the power of the OpenAI API to provide intelligent and context-aware responses. Named after the renowned GPT-3.5 model, this project brings advanced natural language processing capabilities to Discord.
 
 ## License
 
